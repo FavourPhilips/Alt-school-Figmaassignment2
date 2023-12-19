@@ -8,7 +8,16 @@
     <title>Figma Design</title>
     <!-- <link rel="stylesheet" href="FIGMA2re.css" /> -->
 
-<style>
+    <br>
+
+
+
+ 
+
+  </head>
+  <body>
+    
+  <style>
         body{
     width: 100%;
     height: 100%;
@@ -122,10 +131,6 @@ word-wrap: break-word
     border: 2px #646E7A solid
 }
     </style>
-
-
-  </head>
-  <body>
    
     <header>
         <div class="image">
