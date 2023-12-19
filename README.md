@@ -6,13 +6,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Figma Design</title>
-    <!-- <link rel="stylesheet" href="FIGMA2re.css" /> -->
 
     <br>
-
-
-
- 
 
   </head>
   <body>
@@ -135,7 +130,7 @@ word-wrap: break-word
     <header>
         <div class="image">
       <img src="/Images/wppusher-logo copy.svg" alt="WP-Pusher" />
-</div>
+     </div>
 
       <nav>
         <div>
