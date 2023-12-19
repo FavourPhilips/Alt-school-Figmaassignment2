@@ -9,10 +9,11 @@
 
     <br>
 
-  </head>
-  <body>
+    </head>
+    <body>
     
-  <style>
+    <style>
+    
         body{
     width: 100%;
     height: 100%;
@@ -22,35 +23,35 @@
     justify-content: flex-start;
     align-items: flex-start;
     display: inline-flex
-}
+    }
 
-img {
-  width: 200px;
-  height: 39px;
-  left: 0px;
-  top: 2px;
-  position: absolute;
-}
+    img {
+    width: 200px;
+    height: 39px;
+    left: 0px;
+    top: 2px;
+    position: absolute;
+    }
 
-header{
+    header{
     text-decoration: underline
-}
+     }
 
-.image{
+    .image{
     width: 1360px;
      height: 73px;
       position: relative
-}
+    }
 
-.navigation{
+    .navigation{
     width: 476px; 
     height: 40px;
     left: 884px;
     top: 0px;
     position: absolute;
-}
+    }
 
-.header1{
+    .header1{
     left: 0px;
     top: 11px; 
     position: absolute;
@@ -60,20 +61,20 @@ header{
     font-family: Lato;
     font-weight: 700;
     word-wrap: break-word
-}
+    }
 
-.header2{
+    .header2{
     left: 107px; 
-top: 11px; 
-position: absolute; 
-color: #1D2C3C; 
-font-size: 14px; 
-font-family: Lato; 
-font-weight: 700; 
-word-wrap: break-word
-}
+    top: 11px; 
+    position: absolute; 
+    color: #1D2C3C; 
+    font-size: 14px; 
+    font-family: Lato; 
+    font-weight: 700; 
+    word-wrap: break-word
+    }
 
-.header3{
+     .header3{
     left: 224px;
     top: 11px;
     position: absolute;
@@ -82,9 +83,9 @@ word-wrap: break-word
     font-family: Lato;
     font-weight: 700;
     word-wrap: break-word
-}
+    }
 
-.header4{
+    .header4{
     left: 311px;
     top: 11px;
     position: absolute;
@@ -93,18 +94,17 @@ word-wrap: break-word
     font-family: Lato;
     font-weight: 700;
     word-wrap: break-word
-}
+    }
 
-.header-main{
+    .header-main{
     width: 91px; 
     height: 40px; 
     left: 385px; 
     top: 0px; 
     position: absolute;
-   
-}
+    }
 
-.header5{
+    .header5{
     left: 19px;
     top: 11px;
     position: absolute;
@@ -114,9 +114,9 @@ word-wrap: break-word
     font-weight: 700;
     word-wrap: break-word;
     
-}
+    }
 
-.header-main-body{
+    .header-main-body{
      width: 91px;
     height: 40px;
     left: 0px;
@@ -124,7 +124,7 @@ word-wrap: break-word
     position: absolute;
     border-radius: 6px;
     border: 2px #646E7A solid
-}
+    }
     </style>
    
     <header>
@@ -245,8 +245,8 @@ word-wrap: break-word
           <div style="width: 580px; height: 2px; left: 0px; top: 78px; position: absolute; background: #F5F7FA"></div>
           <div style="width: 161px; height: 54px; left: 48px; top: 0px; position: absolute; color: #1D2C3C; font-size: 30px; font-family: Lato; font-weight: 400; word-wrap: break-word">Checkout</div>
       </div>
-  </div>
-  <div style="width: 100px; height: 100px; position: relative"></div>
+    </div>
+    <div style="width: 100px; height: 100px; position: relative"></div>
 
-  </body>
-</html>
+    </body>
+    </html>
